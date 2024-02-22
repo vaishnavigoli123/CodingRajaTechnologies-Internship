@@ -14,26 +14,26 @@ console.log(song_play)
 let songs_list = [
     {
         name : 'Lover',
-        Image : 'song.jpg',
-        Song : 'Lover Taylor Swift-(PagalSongs.Com.IN).mp3',
+        Image : 'Images/song.jpg',
+        Song : 'Music/Lover Taylor Swift-(PagalSongs.Com.IN).mp3',
         Singer : 'Taylor Swift'
     },
     {
         name : 'Double Take',
-        Image : 'Double.jpg',
-        Song : 'music/Taylor-Swift-Love-Story.mp3',
+        Image : 'Images/Double.jpg',
+        Song : 'Music/Taylor-Swift-Love-Story.mp3',
         Singer : 'Dhruv'
     },
     {
         name : 'Boy with luv',
-        Image : 'Bts.png',
-        Song : 'music/Taylor-Swift-Red.mp3',
+        Image : 'Images/Bts.png',
+        Song : 'Music/Taylor-Swift-Red.mp3',
         Singer : 'BTS'
     },
     {
         name : 'Cupid',
-        Image : 'cupid.jpg',
-        Song : 'music/Taylor-Swift-Wildest-Dreams.mp3',
+        Image : 'Images/cupid.jpg',
+        Song : 'Music/Cupid(Mr-Jatt1.com).mp3',
         Singer : 'Fifty Fifty'
     }
 ]
