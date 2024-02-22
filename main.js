@@ -32,7 +32,7 @@ let songs_list = [
     },
     {
         name : 'Cupid',
-        Image : 'cupid.jfif',
+        Image : 'cupid.jpg',
         Song : 'music/Taylor-Swift-Wildest-Dreams.mp3',
         Singer : 'Fifty Fifty'
     }
