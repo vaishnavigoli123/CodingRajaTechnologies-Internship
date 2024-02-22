@@ -15,7 +15,7 @@ let songs_list = [
     {
         name : 'Lover',
         Image : 'song.jpg',
-        Song : 'music/Lover.mp3',
+        Song : 'Lover Taylor Swift-(PagalSongs.Com.IN).mp3',
         Singer : 'Taylor Swift'
     },
     {
