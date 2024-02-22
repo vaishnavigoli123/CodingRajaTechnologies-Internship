@@ -21,13 +21,13 @@ let songs_list = [
     {
         name : 'Double Take',
         Image : 'Images/Double.jpg',
-        Song : 'Music/Taylor-Swift-Love-Story.mp3',
+        Song : 'Music/Double-Take(PaglaSongs).mp3',
         Singer : 'Dhruv'
     },
     {
         name : 'Boy with luv',
         Image : 'Images/Bts.png',
-        Song : 'Music/Taylor-Swift-Red.mp3',
+        Song : 'Music/',
         Singer : 'BTS'
     },
     {
