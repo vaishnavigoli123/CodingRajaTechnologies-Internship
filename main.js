@@ -27,7 +27,7 @@ let songs_list = [
     {
         name : 'Boy with luv',
         Image : 'Images/Bts.png',
-        Song : 'Music/',
+        Song : 'Music/Boy-With-Luv---BTS-feat.-Healsy(musicdownload.cc).mp3',
         Singer : 'BTS'
     },
     {
